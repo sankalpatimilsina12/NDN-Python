@@ -1,0 +1,8 @@
+dataclasses==0.7
+pycryptodomex==3.9.7
+pygtrie==2.3.2
+python-ndn==0.2b2
+pytz==2019.3
+six==1.14.0
+throttle==0.2.2
+tzlocal==2.0.0
