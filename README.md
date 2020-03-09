@@ -1,4 +1,4 @@
-# NDN Node
+# NDN Python
 
 Named data networking flow demonstration in Python.
 
