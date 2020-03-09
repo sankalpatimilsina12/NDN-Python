@@ -32,6 +32,6 @@ python producer.py
 ```
 2. Run the consumer
 ```
-python consumer.js
+python consumer.py
 ```
 
