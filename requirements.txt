@@ -1,5 +1,5 @@
 dataclasses==0.7
-pycryptodomex==3.9.7
+pycryptodomex==3.19.1
 pygtrie==2.3.2
 python-ndn==0.2b2
 pytz==2019.3
